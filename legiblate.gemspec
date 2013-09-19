@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Ryan Metzler"]
   s.email       = 'rmetzler@gmail.com'
   s.files       = ["lib/legiblate.rb"]
+  s.license     = 'MIT'
   s.homepage    =
     'http://github.com/rkmetzl/legiblate'
 end
